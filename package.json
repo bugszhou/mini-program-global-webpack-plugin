@@ -1,0 +1,27 @@
+{
+  "name": "mini-program-global-webpak-plugin",
+  "version": "0.0.1",
+  "description": "在babel的global polyfill中增加webpack的global判断",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugszhou/mini-program-global-webpak-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "global",
+    "mini-program"
+  ],
+  "author": "yiri.zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugszhou/mini-program-global-webpak-plugin/issues"
+  },
+  "homepage": "https://github.com/bugszhou/mini-program-global-webpak-plugin#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
