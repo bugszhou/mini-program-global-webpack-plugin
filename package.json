@@ -21,7 +21,7 @@
     "url": "https://github.com/bugszhou/mini-program-global-webpak-plugin/issues"
   },
   "homepage": "https://github.com/bugszhou/mini-program-global-webpak-plugin#readme",
-  "dependencies": {
-    "webpack": "^5.74.0"
+  "peerDependencies": {
+    "webpack": ">=5.30.0"
   }
 }
