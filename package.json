@@ -1,6 +1,6 @@
 {
   "name": "mini-program-global-webpack-plugin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "在babel的global polyfill中增加webpack的global判断",
   "main": "./lib/index.js",
   "scripts": {
